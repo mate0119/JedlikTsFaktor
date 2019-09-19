@@ -1,0 +1,36 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "extensions.ignoreRecommendations": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "html.format.wrapLineLength": 0,
+    "files.autoSave": "afterDelay",
+    "files.eol": "\r\n",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.gitignore": false,
+        "**/.vscode": false,
+        "**/tsconfig.json": false,
+        "**/tslint.json": false,
+        "**/package-lock.json": true,
+	    "**/js": true,
+        "**/node_modules": true,
+        "**/*.js.map": true,
+        "**/*.npmrc": true
+    },
+    "spellright.notificationClass": "information",
+    "spellright.language": [
+        "en",
+        "hu"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
